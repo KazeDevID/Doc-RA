@@ -25,7 +25,7 @@ Get Random Anime based on scrapping from websites.
 
 ```js
 
-const { RandomAnime } = require("random-anime");
+const { RandomAnime } = require("@kazesolo/random-anime");
 
 const wall = new RandomAnime();
 
